@@ -1,3 +1,4 @@
+//Se agregan comentarios al código
 public class ArbolInventario {
     Producto raiz;
 
